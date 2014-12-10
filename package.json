@@ -1,5 +1,5 @@
 {
-  "name": "sanji-node-logger",
+  "name": "sanji-logger",
   "version": "0.0.1",
   "description": "Sanji framework in node.js log wrapper (bunyan)",
   "main": "index.js",
