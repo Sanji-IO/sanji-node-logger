@@ -1,0 +1,29 @@
+{
+  "name": "sanji-node-logger",
+  "version": "0.0.1",
+  "description": "Sanji framework in node.js log wrapper (bunyan)",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Sanji-IO/sanji-node-logger.git"
+  },
+  "keywords": [
+    "sanji"
+  ],
+  "author": "YuLun Shih",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sanji-IO/sanji-node-logger/issues"
+  },
+  "homepage": "https://github.com/Sanji-IO/sanji-node-logger",
+  "dependencies": {
+    "bunyan": "^1.2.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "should": "^4.3.1"
+  }
+}
